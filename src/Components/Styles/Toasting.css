@@ -1,0 +1,22 @@
+.toasting {
+  width: 17vw;
+  height: 7vh;
+ 
+  text-align: center;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+ 
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #f2b237;
+   background-color: #192a32;
+  border-radius: 2vh;
+  position: absolute;
+  top: 8vh;
+  margin-left: 84vw;
+  display: flex;
+
+
+  }

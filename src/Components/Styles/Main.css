@@ -1,0 +1,27 @@
+body {
+  font-family: 'DM Sans', sans-serif;
+}
+
+.Main {
+ height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  
+}
+
+.Mobile {
+  border-radius: 5%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 26vw;
+  height: 85vh;
+  background-color: #192a32;
+ 
+  justify-content: center;
+}

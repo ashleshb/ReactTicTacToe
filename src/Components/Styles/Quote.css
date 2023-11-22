@@ -1,0 +1,40 @@
+.quotes {
+ 
+  margin-top: 44vh;
+  margin-right: 70vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #f2b237;
+  width: 20vw;
+  height: 43vh;
+  background-color: #192a32;
+  border-radius: 7%;
+  position: absolute;
+
+  text-align: center;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+p{
+  padding: 2vh 2vh;
+}
+
+h2{
+    color: #31C4BE;
+    margin: 0;
+    padding: 0;
+}
+
+.cir_1 {
+   background-color: aqua;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  height: 4vh;
+  width: 2vw;
+ 
+}
